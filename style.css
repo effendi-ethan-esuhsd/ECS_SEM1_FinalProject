@@ -3,5 +3,8 @@ img{
 }
 
 a{
-    font-family: 'Lucida Console';
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+body{
+    background-color: #13434d;
 }
