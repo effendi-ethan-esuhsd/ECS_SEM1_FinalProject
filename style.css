@@ -8,3 +8,13 @@ a{
 body{
     background-color: #13434d;
 }
+h6{
+    font-family: "Locida Console", "Courier New", monospace;
+    color: yellow;
+    background-color: #13434d;
+}
+input{
+    font-family: "Locida Console", "Courier New", monospace;
+    color: green;
+    background-color: #13434d;
+}
